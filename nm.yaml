@@ -7,4 +7,4 @@
                     dest: /usr/local/latest/webapps
                     remote_src: false
             become: yes
-~                        
+                     
