@@ -5,6 +5,6 @@
             copy:
                     src: /home/vagrant/ansible/workspace/project_pipeline/project_pipeline_package/target/addressbook-2.0.war
                     dest: /usr/local/latest/webapps
-                    remote_src: false
+                    remote_src: yes
             become: yes
                      
